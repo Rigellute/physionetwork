@@ -58,54 +58,33 @@
             </nav>
         </div>
     </header>
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-<!--
     <div class="bh-sl-container">
-        <div class="jumbotron">
-            <div class="container jumbotext">
-                <h1>The Physiotherapist Network</h1>
-                <p>Find world class Physiotherapists approved by the Spine Surgery London</p>
+
+        <div class="parallaxParent">
+            <div class="container jumbotext" id="parallax1">
+                <h1 class="header-content">The Physiotherapist Network</h1>
+                <p class="header-content">Find world class Physiotherapists approved by the Spine Surgery London</p>
 
                 <div class="bh-sl-form-container">
                     <form id="bh-sl-user-location" class="form-inline" method="post" action="#" role="form">
-                        <div class="form-input form-group">
-                            <label for="bh-sl-address">Enter Address or Postcode:</label>
+                        <div class="form-input form-group header-content">
+                            <label for="bh-sl-address">Enter Address or Postcode <small>(e.g. SW1A 2AA)</small>:</label>
                             <input class="form-control" type="text" id="bh-sl-address" name="bh-sl-address" />
                         </div>
 
-                        <button id="bh-sl-submit" class="btn btn-primary" type="submit">Submit</button>
+                        <button id="bh-sl-submit" class="btn btn-primary header-content" type="submit">Submit</button>
                     </form>
                 </div>
             </div>
+            <div class="parallax-1"></div>
         </div>
--->
-    <div class="bh-sl-container">
-        
-            <div class="parallaxParent">
-                <div class="container jumbotext" id="parallax1">
-                    <h1 class="header-content">The Physiotherapist Network</h1>
-                    <p class="header-content">Find world class Physiotherapists approved by the Spine Surgery London</p>
-                
-                    <div class="bh-sl-form-container">
-                        <form id="bh-sl-user-location" class="form-inline" method="post" action="#" role="form">
-                            <div class="form-input form-group header-content">
-                                <label for="bh-sl-address">Enter Address or Postcode <small>(e.g. SW1A 2AA)</small>:</label>
-                                <input class="form-control" type="text" id="bh-sl-address" name="bh-sl-address" />
-                            </div>
-                
-                            <button id="bh-sl-submit" class="btn btn-primary header-content" type="submit">Submit</button>
-                        </form>
-                    </div>
-                </div>
-                        <div class="parallax-1"></div>
-            </div>
-       
-       
-       
+
+
+
         <div id="map-container" class="bh-sl-map-container container map-container-spacer">
-           <div class="bh-sl-form-container search-again-container">
-                   <h3>Results:</h3>
-                    </div>
+            <div class="bh-sl-form-container search-again-container">
+                <h3>Results:</h3>
+            </div>
             <div class="row">
                 <div id="map-results-container" class="container">
                     <div id="bh-sl-map" class="bh-sl-map col-md-9"></div>
@@ -114,22 +93,22 @@
                     </div>
                 </div>
             </div>
-             <h3>Search Another Address</h3>
-                        <form id="bh-sl-user-location" class="form-inline" method="post" action="#" role="form">
-                            <div class="form-input form-group search-again">
-                               
-                                <label for="bh-sl-address-2">Enter Address or Postcode <small>(e.g. SW1A 2AA)</small>:</label>
-                                <input class="form-control" type="text" id="bh-sl-address" name="bh-sl-address" />
-                            </div>
-                
-                            <button id="bh-sl-submit" class="btn btn-primary header-content" type="submit">Submit</button>
-                        </form>
-                        
+            <h3>Search Another Address</h3>
+            <form id="bh-sl-user-location" class="form-inline" method="post" action="#" role="form">
+                <div class="form-input form-group search-again">
+
+                    <label for="bh-sl-address-2">Enter Address or Postcode <small>(e.g. SW1A 2AA)</small>:</label>
+                    <input class="form-control" type="text" id="bh-sl-address" name="bh-sl-address" />
+                </div>
+
+                <button id="bh-sl-submit" class="btn btn-primary header-content" type="submit">Submit</button>
+            </form>
+
         </div>
-        
+
     </div>
 
-<!--    <hr>-->
+    <!--    <hr>-->
 
     <footer>
         <p>&copy; Company 2015</p>
@@ -150,33 +129,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/plugins/ScrollToPlugin.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.js"></script>
-    <script src="js/enquire.js"></script>
+
     <script src="js/main.js"></script>
 
-    <script>
-        //        $(function () {
-        //            var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-        //
-        //            var isDraggable = w > 480 ? true : false;
-        //            var mapOptions = {
-        //                draggable: isDraggable,
-        //                scrollwheel: false
-        //            };
-        //
-        //            $("#map-container").storeLocator({
-        //                "mapSettings": {
-        //                    zoom: 12,
-        //                    mapTypeId: google.maps.MapTypeId.ROADMAP,
-        //                    disableDoubleClickZoom: true,
-        //                    scrollwheel: true,
-        //                    navigationControl: false,
-        //                    draggable: mapOptions
-        //                }
-        //            });
-        //            
-        //            
-        //        });
-    </script>
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site"s ID. -->
     <script>
