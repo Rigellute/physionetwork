@@ -125,6 +125,9 @@ footer p {
     padding-top: 7px;
 }
 
+label {
+    font-size: 1.1em;
+}
 .bh-sl-error {
     clear: both;
     float: left;
