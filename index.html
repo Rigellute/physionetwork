@@ -14,26 +14,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!--
-    <style>
-        body {
-            padding-top: 50px;
-            padding-bottom: 20px;
-        }
-    </style>
--->
-    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="css/main.css">
 
-    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-example.css" />
+
+    <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
 
 <body>
-    <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
     <header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
         <div class="container">
             <div class="navbar-header">
@@ -62,17 +50,85 @@
 
         <div class="parallaxParent">
             <div class="container jumbotext" id="parallax1">
-                <h1 class="header-content">The Physiotherapist Network</h1>
-                <p class="header-content">Find world class Physiotherapists approved by the Spine Surgery London</p>
+                <h1 style="text-transform: uppercase; font-weight: 300" class="header-content">The Physiotherapist Network</h1>
+                <p class="header-content">Find world class Physiotherapists approved by the <a style="color: #fff" href="http://sw12694.smart-web.dk/">Spine Surgery London</a></p>
 
                 <div class="bh-sl-form-container">
                     <form id="bh-sl-user-location" class="form-inline" method="post" action="#" role="form">
+
+
                         <div class="form-input form-group header-content">
                             <label for="bh-sl-address">Enter Address or Postcode <small>(e.g. SW1A 2AA)</small>:</label>
+
                             <input class="form-control" type="text" id="bh-sl-address" name="bh-sl-address" />
                         </div>
 
-                        <button id="bh-sl-submit" class="btn btn-primary header-content" type="submit">Submit</button>
+                        <select style="color: #333" id="bh-sl-maxdistance" name="bh-sl-maxdistance" class="form-control header-content">
+                            <option value="10">10 Miles</option>
+                            <option value="20">20 Miles</option>
+                            <option value="30">30 Miles</option>
+                            <option value="40">40 Miles</option>
+                        </select>
+
+                        <button id="bh-sl-submit" class="btn btn-success header-content" type="submit">Submit</button>
+
+                        <button class="header-content filter-service btn  btn-primary">Filter Service</button>
+
+
+                        <div style="text-align: left" class="bh-sl-filters-container">
+                            <!--Original ul filter list class="class="bh-sl-filters"-->
+                            <ul id="category-filters-container2" class="container no-list-style">
+                                <li>
+                                    <h3>Services</h3></li>
+                                <div class="row">
+                                    <div class="col-xs-6 col-sm-6 col-md-6">
+                                        <li>
+                                            <label>
+                                                <input type="checkbox" name="feature" value="Gait Analysis">Gait Analysis
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <input type="checkbox" name="feature" value="Acupuncture">Acupuncture
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <input type="checkbox" name="feature" value="Osteopathy">Osteopathy
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <input type="checkbox" name="feature" value="Hydrotherapy">Hydrotherapy
+                                            </label>
+                                        </li>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-6 col-md-6">
+                                        <li>
+                                            <label>
+                                                <input type="checkbox" name="feature" value="Podiatry">Podiatry
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <input type="checkbox" name="feature" value="Pilates">Pilates
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <input type="checkbox" name="feature" value="Ergonomics">Ergonomics
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <input type="checkbox" name="feature" value="Home Visits">Home/Office Vists
+                                            </label>
+                                        </li>
+                                    </div>
+                                </div>
+                            </ul>
+                        </div>
+
                     </form>
                 </div>
             </div>
@@ -93,45 +149,34 @@
                     </div>
                 </div>
             </div>
-            <h3>Search Another Address</h3>
-            <form id="bh-sl-user-location" class="form-inline" method="post" action="#" role="form">
-                <div class="form-input form-group search-again">
-
-                    <label for="bh-sl-address-2">Enter Address or Postcode <small>(e.g. SW1A 2AA)</small>:</label>
-                    <input class="form-control" type="text" id="bh-sl-address" name="bh-sl-address" />
-                </div>
-
-                <button id="bh-sl-submit" class="btn btn-primary header-content" type="submit">Submit</button>
-            </form>
 
         </div>
 
     </div>
 
-    <!--    <hr>-->
-
     <footer>
-        <p>&copy; Company 2015</p>
+       <div class="container">
+             <p>&copy; Company 2015</p>
+        </div>
     </footer>
 
-    <!-- /container -->
+
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
     </script>
 
-    <script src="js/vendor/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.3/handlebars.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.4/handlebars.min.js"></script>
     <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-    <script src="js/jquery.storelocator.js"></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/plugins/CSSRulePlugin.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/plugins/ScrollToPlugin.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.js"></script>
-
-    <script src="js/main.js"></script>
-
+    <script src="assets/js/jquery.storelocator.js"></script>
+    <script src="assets/js/main.js"></script>
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site"s ID. -->
     <script>

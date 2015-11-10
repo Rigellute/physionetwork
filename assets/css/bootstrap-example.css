@@ -5,12 +5,14 @@
    Author's custom styles
    ========================================================================== */
 
+
 /*
 .gm-style a,
 .gm-style div,
 .gm-style label,
 .gm-style span,
 */
+
 h1,
 p,
 label,
@@ -21,6 +23,7 @@ a {
 .jumbotext h1 {
     font-size: 7em;
 }
+
 
 /*
 .gm-style div {
@@ -48,28 +51,23 @@ label {
     color: #fff
 }
 
-.jumbotron {
-    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(../img/PhysiotherapyImg.jpg);
-    background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(../img/PhysiotherapyImg.jpg);
-    background-size: cover;
-    height: 100vh;
-    background-color: #003459;
-}
 
 .parallaxParent {
     height: 100vh;
     overflow: hidden;
+    background-color: #00171F
 }
 
 .parallax-1 {
-    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.45)), url(../img/iStock_000025433651_Medium-min.jpg);
-    background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.45)), url(../img/iStock_000025433651_Medium-min.jpg);
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/img/iStock_000025433651_Medium-min.jpg);
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(../img/iStock_000025433651_Medium-min.jpg);
+    background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(../img/iStock_000025433651_Medium-min.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
     position: relative;
     background-color: #003459;
-    top: -22%;
+    top: -25%;
 }
 
 .jumbotext {
@@ -89,22 +87,40 @@ label {
     color: #d4d4d4;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 64.063em) {
     .jumbotext h1 {
         font-size: 2.6em;
     }
+    
+    .jumbotext {
+	top: 60%;
+}
+    .btn {
+        margin-top: 7px;
+    }
+    .parallaxParent {
+        height: 110vh;
+    }
+    .parallax-1 {
+        top: 0%;
+        height: 110vh;
+    }
 }
 
-.search-again label{
+.no-list-style {
+    list-style: none;
+}
+
+.search-again label {
     color: #333;
 }
 
 .search-again-container {
-	margin-bottom: 2%;
+    margin-bottom: 2%;
 }
 
 .map-container-spacer {
-	margin-bottom: 2%;
+    margin-bottom: 2%;
 }
 
 hr {
@@ -125,6 +141,10 @@ footer p {
     padding-top: 7px;
 }
 
+label {
+    /*    font-weight: 400;*/
+    font-size: 1.1em;
+}
 
 .bh-sl-error {
     clear: both;
@@ -187,6 +207,7 @@ footer p {
     float: left;
     margin: 2px 8px 2px 0
 }
+
 
 /*
 .bh-sl-container .bh-sl-map-container {

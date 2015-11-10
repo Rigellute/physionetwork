@@ -13,12 +13,40 @@
         country="UK"
         phone="01494 764 822"
         email="enquiries@advantage-physiotherapy.co.uk" 
+        details="http://sw12694.smart-web.dk/advantage-phsyiotherapy/"
         web="http://www.advantage-physiotherapy.co.uk" 
         hours1="opening hours include weekdays, late evenings and weekends" 
         hours2="" 
         hours3="" 
         featured="" 
-        features="" />
+        features="acupuncture
+chronic pain management
+clinical pilates (one to one)
+electro-acupuncture
+ergonomics
+exercise classes
+gait analysis
+home visits
+hypermobility
+interferential and therapeutic ultrasound
+knee clinic
+low back pain
+musculo-skeletal physiotherapy
+musculo-skeletal services
+musculoskeletal ultrasound
+neck pain
+pilates
+post natal physio
+post surgery physiotherapy
+postural correction
+rehabilitation services
+remedial massage
+running clinic
+sports massage
+vestibular physiotherapy
+whiplash
+womens health physiotherapy
+yoga" />
         
         <marker 
         name="Allen Physiotherapy Rehabilitation and Sports Medicine" 
@@ -32,13 +60,24 @@
         postal="GU1 4RF" 
         country="UK"
         phone="01483 571783"
-        email="admin@physiosportsmed.co.uk/reception@physiosportsmed.co.uk" 
+        email="admin@physiosportsmed.co.uk/reception@physiosportsmed.co.uk"
+        details="http://sw12694.smart-web.dk/allen-physiotherapy-rehabilitation-and-sports-medicine/"
         web="http://www.physiosportsmed.co.uk/" 
         hours1="" 
         hours2="" 
         hours3="" 
         featured="" 
-        features="" />
+        features="clinical pilates (one to one)
+hydrotherapy
+isokinetic testing
+musculo-skeletal physiotherapy
+musculoskeletal ultrasound
+neck pain
+physiotherapy
+pilates
+rehabilitation services
+remedial massage
+sports massage" />
         
         <marker 
         name="Back2normal" 
@@ -53,12 +92,24 @@
         country="UK"
         phone="02073576877"
         email="info@back2normal.co.uk" 
+        details="http://sw12694.smart-web.dk/back2normal/"
         web="http://www.back2normal.co.uk" 
         hours1="8am-6pm Monday-Friday" 
         hours2="" 
         hours3="" 
         featured="" 
-        features="" />
+        features="electro-acupuncture
+exercise classes
+gym
+interferential and therapeutic ultrasound
+low back pain
+musculo-skeletal physiotherapy
+neck pain
+physiotherapy
+post surgery physiotherapy
+rehabilitation services
+sports medicine
+whiplash" />
         
           <marker 
         name="Backworks" 
@@ -72,13 +123,15 @@
         postal="SS1 1PG" 
         country="UK"
         phone="01702 342329"
-        email="backworkssouthend@gmail.com" 
+        email="backworkssouthend@gmail.com"
+        details="http://sw12694.smart-web.dk/backworks/" 
         web="http://www.backpainsouthend.com" 
         hours1="" 
         hours2="" 
         hours3="" 
         featured="" 
-        features="" />
+        features="chiropractic
+physiotherapy" />
         
         <marker 
         name="Balance Performance Physiotherapy" 
@@ -92,13 +145,49 @@
         postal="SW4 6LE" 
         country="UK"
         phone="020 7627 2308"
-        email="admin@balancephysio.com" 
+        email="admin@balancephysio.com"
+        details="http://sw12694.smart-web.dk/balance-performance-physiotherapy/" 
         web="http://www.balancephysio.com" 
         hours1="Mon, Tues, Wed, Thursday 6.00am until 9.00pm. Friday 6.00am until 6.00pm Saturday 8.00am until 5.00pm Open Bank Holiday Mondays and Good Friday. Closed Boxing Day, Xmas Day and New Year's Day" 
         hours2="" 
         hours3="" 
         featured="" 
-        features="" />
+        features="acupuncture
+chronic pain management
+clinical pilates (one to one)
+ergonomics
+exercise classes
+gait analysis
+gym
+home visits
+hypermobility
+injection therapy
+interferential and therapeutic ultrasound
+knee clinic
+low back pain
+musculo-skeletal physiotherapy
+musculo-skeletal services
+musculoskeletal ultrasound
+neck pain
+neurophysiotherapy
+nutritional therapy
+osteopathy
+osteoporosis physiotherapy
+personal training
+physiotherapy
+pilates
+podiatry
+post natal physio
+post surgery physiotherapy
+postural correction
+rehabilitation services
+remedial massage
+running clinic
+sports massage
+sports medicine
+whiplash
+women's health
+womens health physiotherapy" />
         
 
         <marker 
@@ -114,7 +203,8 @@
         country="UK"
         phone="020 7606 6530 / 020 7628 4182"
         email="info@barbicanphysio.co.uk" 
-        web="www.barbicanphysio.co.uk" 
+        details="http://sw12694.smart-web.dk/barbican-physiotherapy-clinic"
+        web="http://www.barbicanphysio.co.uk" 
         hours1="" 
         hours2="" 
         hours3="" 
@@ -135,8 +225,9 @@ pilates" />
         postal="SW11 2DA" 
         country="UK"
         phone="0208 685 6930"
-        email="info@surreyphysio.co.uk" 
-        web="www.batterseaphysio.co.uk" 
+        email="info@surreyphysio.co.uk"
+        details="" 
+        web="http://www.batterseaphysio.co.uk" 
         hours1="" 
         hours2="" 
         hours3="" 
@@ -166,307 +257,335 @@ pilates" />
             whiplash
             women's health
             womens health physiotherapy" />
-      <!--  
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
-        <marker 
-        name="" 
-        lat="" 
-        lng="" 
-        category="Physiotherapist" 
-        address=""
-        address2="" 
-        city="" 
-        state="" 
-        postal="" 
-        country="UK"
-        phone=""
-        email="" 
-        web="" 
-        hours1="" 
-        hours2="" 
-        hours3="" 
-        featured="" 
-        features="" />
-        
--->
+      
 
+        <marker 
+        name="Beyond Health" 
+        lat="51.4758656" 
+        lng="-0.20095790000004854" 
+        category="Physiotherapist" 
+        address="Swan Mews"
+        address2="Parsons Green" 
+        city="London" 
+        state="" 
+        postal="
+SW6 4QT" 
+        country="UK"
+        phone="0207 610 7070"
+        email="be@beyond-health.co.uk"
+        details="" 
+        web="http://www.beyond-health.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="osteopathy
+personal training
+physiotherapy
+sports massage" />
+        
+        <marker 
+        name="Bodies Under Construction Chiswick" 
+        lat="51.4746447" 
+        lng="-0.25525089999996453" 
+        category="Physiotherapist" 
+        address="The Riverside Health and Racquets Club"
+        address2="Dukes Meadows" 
+        city="Chiswick" 
+        state="Greater London" 
+        postal="W4 2SX" 
+        country="UK"
+        phone="02087474029"
+        email="Info@bodiesunderconstruction.com" 
+        details=""
+        web="http://www.bodiesunderconstruction.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture
+hydrotherapy
+musculo-skeletal services
+osteoporosis physiotherapy
+physiotherapy
+pilates
+rehabilitation services
+sports medicine
+women's health" />
+     
+     
+        <marker 
+        name="Bodies Under Construction Putney" 
+        lat="51.46165939999999" 
+        lng="-0.2199442999999519" 
+        category="Physiotherapist" 
+        address="The Putney Clinic of Physical Therapy"
+        address2="2nd Floor, 266 Upper Richmond Road" 
+        city="Putney" 
+        state="Greater London" 
+        postal="SW15 6TQ" 
+        country="UK"
+        phone="0208 789 3881"
+        email="Info@bodiesunderconstruction.com"
+        details="" 
+        web="http://www.bodiesunderconstruction.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture
+hydrotherapy
+musculoskeletal diagnostic ultrasound
+osteoporosis physiotherapy
+physiotherapy
+pilates
+post surgery physiotherapy
+sports medicine
+women's health" />
+        
+
+            <marker 
+        name="Bodybalance Physiotherapy &amp; Sports Injury Clinic" 
+        lat="51.76078099999999" 
+        lng="-0.25006600000006074" 
+        category="Physiotherapist" 
+        address="Hertfordshire Sports Village"
+        address2="de Havilland Campus" 
+        city="Hatfield" 
+        state="Hertfordshire" 
+        postal="AL10 9EU" 
+        country="UK"
+        phone="01707284910"
+        email="info@bodybalancephysio.com" 
+        details=""
+        web="http://www.bodybalancephysio.com" 
+        hours1="MONDAY - THURSDAY: 8 am - 8 pm FRIDAY: 8 am - 6pm SATURDAY: 8 am - 1 pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture
+        clinical pilates (one to one)
+        exercise classes
+        gait analysis
+        gym
+        home visits
+        hydrotherapy
+        hypermobility
+        knee clinic
+        low back pain
+        musculo-skeletal physiotherapy
+        musculo-skeletal services
+        neck pain
+        physiotherapy
+        pilates
+        post surgery physiotherapy
+        rehabilitation services
+        remedial massage
+        running clinic
+        sports massage
+        whiplash" />
+
+        
+    
+        <marker 
+        name="Bodybalance Physiotherapy &amp; Sports Injury Clinic" 
+        lat="51.59995809999999" 
+        lng="-0.23573869999995622" 
+        category="Physiotherapist" 
+        address="Laboratory Spa &amp; Health Club"
+        address2="1a Hall Lane" 
+        city="Hendon" 
+        state="London" 
+        postal="NW4 4TJ" 
+        country="UK"
+        phone="01707284910"
+        email="info@bodybalancephysio.com"
+        details="" 
+        web="http://www.bodybalancephysio.com" 
+        hours1="MONDAY - THURSDAY: 8 am - 8 pm FRIDAY: 8 am - 6 pm SATURDAY: 9 am - 1 pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture
+clinical pilates (one to one)
+gym
+home visits
+hydrotherapy
+hypermobility
+knee clinic
+low back pain
+musculo-skeletal physiotherapy
+musculo-skeletal services
+neck pain
+physiotherapy
+pilates
+post surgery physiotherapy
+rehabilitation services
+remedial massage
+running clinic
+sports massage
+sports medicine
+whiplash" />
+        
+        <marker 
+        name="Broadgate Spine and Joint Clinic" 
+        lat="51.5168354" 
+        lng="-0.08651740000004793" 
+        category="Physiotherapist" 
+        address="65 London Wall"
+        address2="" 
+        city="London" 
+        state="" 
+        postal="EC2M 5TU" 
+        country="UK"
+        phone="02076384330"
+        email="Chris@movementperfected.com"
+        details="" 
+        web="http://www.broadgatespinecentre.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture
+physiotherapy
+pilates" />
+        
+        <marker 
+        name="Central Health Physiotherapy" 
+        lat="51.5174423" 
+        lng="-0.1129280000000108" 
+        category="Physiotherapist" 
+        address="Chancery House"
+        address2="53-64 Chancery Lane" 
+        city="London" 
+        state="" 
+        postal="WC2A 1QS" 
+        country="UK"
+        phone="020 7404 6343"
+        email="reception@central-health.com"
+        details="" 
+        web="http://www.central-health.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="ergonomics
+neurophysiotherapy
+osteoporosis physiotherapy
+physiotherapy
+vestibular physiotherapy" />
+        
+        <marker 
+        name="Central Health Physiotherapy - Hospital of St John and St Elizabeth" 
+        lat="51.5333227" 
+        lng="-0.17504170000006525" 
+        category="Physiotherapist" 
+        address="The Hospital of St John and St Elizabeth"
+        address2="60 Grove End Road" 
+        city="London" 
+        state="" 
+        postal="NW8 9NH" 
+        country="UK"
+        phone="020 7806 4010"
+        email="physiotherapy@hje.org.uk"
+        details="" 
+        web="http://www.thephysiotherapyunit.org.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="ergonomics
+hypermobility
+neurophysiotherapy
+physiotherapy
+vestibular physiotherapy
+womens health physiotherapy" />
+        
+        <marker 
+        name="City Road Physio" 
+        lat="51.5274369" 
+        lng="-0.08910820000005515" 
+        category="Physiotherapist" 
+        address="First Floor - Kemp House"
+        address2="152-160 City Road" 
+        city="London" 
+        state="" 
+        postal="EC1V 2NP" 
+        country=""
+        phone="0207 608 8500"
+        email="info@cityroadphysio.co.uk"
+        details="" 
+        web="http://www.cityroadphysio.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="" />
+        
+<!--
+        <marker 
+        name="" 
+        lat="" 
+        lng="" 
+        category="Physiotherapist" 
+        address=""
+        address2="" 
+        city="" 
+        state="" 
+        postal="" 
+        country="UK"
+        phone=""
+        email="" 
+        details=""
+        web="" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="" />
+        
+        <marker 
+        name="" 
+        lat="" 
+        lng="" 
+        category="Physiotherapist" 
+        address=""
+        address2="" 
+        city="" 
+        state="" 
+        postal="" 
+        country="UK"
+        phone=""
+        email="" 
+        details=""
+        web="" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="" />
+        
+        <marker 
+        name="" 
+        lat="" 
+        lng="" 
+        category="Physiotherapist" 
+        address=""
+        address2="" 
+        city="" 
+        state="" 
+        postal="" 
+        country="UK"
+        phone=""
+        email="" 
+        details=""
+        web="" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="" />
+-->
 
 
     </markers>
