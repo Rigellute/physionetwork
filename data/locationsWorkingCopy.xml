@@ -1,0 +1,1385 @@
+  <markers>
+        <marker 
+        name="Advantage Phsyiotherapy" 
+        lat="51.6665909" 
+        lng=" -0.5652450000000044" 
+        category="Physiotherapist" 
+        address="3 Nightingales Corner" 
+        address2="Little Chalfont" 
+        city="Amersham" 
+        state="Buckinghamshire" 
+        postal="HP7 9PY" 
+        country="UK"
+        phone="01494 764 822"
+        email="enquiries@advantage-physiotherapy.co.uk" 
+        details="http://sw12694.smart-web.dk/advantage-phsyiotherapy/"
+        web="http://www.advantage-physiotherapy.co.uk" 
+        hours1="opening hours include weekdays, late evenings and weekends" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+electro-acupuncture,
+ergonomics,
+exercise classes,
+gait analysis,
+home visits,
+hypermobility,
+interferential and therapeutic ultrasound,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+musculoskeletal ultrasound,
+neck pain,
+pilates,
+post natal physio,
+post surgery physiotherapy,
+postural correction,
+rehabilitation services,
+remedial massage,
+running clinic,
+sports massage,
+vestibular physiotherapy,
+whiplash,
+womens health physiotherapy,
+yoga" />
+        
+        <marker 
+        name="Allen Physiotherapy Rehabilitation and Sports Medicine" 
+        lat="51.24119169999999" 
+        lng="-0.5759510999999975" 
+        category="Physiotherapist" 
+        address="60 Woodbridge Road"
+        address2="" 
+        city="Guildford" 
+        state="Surrey" 
+        postal="GU1 4RF" 
+        country="UK"
+        phone="01483 571783"
+        email="admin@physiosportsmed.co.uk/reception@physiosportsmed.co.uk"
+        details="http://sw12694.smart-web.dk/allen-physiotherapy-rehabilitation-and-sports-medicine/"
+        web="http://www.physiosportsmed.co.uk/" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="clinical pilates (one to one),
+hydrotherapy,
+isokinetic testing,
+musculo-skeletal physiotherapy,
+musculoskeletal ultrasound,
+neck pain,
+physiotherapy,
+pilates,
+rehabilitation services,
+remedial massage,
+sports massage" />
+        
+        <marker 
+        name="Back2normal" 
+        lat="51.50249239999999" 
+        lng="-0.07357579999995778" 
+        category="Physiotherapist" 
+        address="44 Curlew Street"
+        address2="Butlers Wharf" 
+        city="London" 
+        state="" 
+        postal="SE1 2ND" 
+        country="UK"
+        phone="02073576877"
+        email="info@back2normal.co.uk" 
+        details="http://sw12694.smart-web.dk/back2normal/"
+        web="http://www.back2normal.co.uk" 
+        hours1="8am-6pm Monday-Friday" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="electro-acupuncture,
+exercise classes,
+gym,
+interferential and therapeutic ultrasound,
+low back pain,
+musculo-skeletal physiotherapy,
+neck pain,
+physiotherapy,
+post surgery physiotherapy,
+rehabilitation services,
+sports medicine,
+whiplash" />
+        
+          <marker 
+        name="Backworks" 
+        lat="51.5402074" 
+        lng="0.7064388000000008" 
+        category="Physiotherapist" 
+        address="96 London Road"
+        address2="" 
+        city="Southend-on-Sea" 
+        state="Essex" 
+        postal="SS1 1PG" 
+        country="UK"
+        phone="01702 342329"
+        email="backworkssouthend@gmail.com"
+        details="http://sw12694.smart-web.dk/backworks/" 
+        web="http://www.backpainsouthend.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="chiropractic,
+physiotherapy" />
+        
+        <marker 
+        name="Balance Performance Physiotherapy" 
+        lat="51.4650743" 
+        lng="-0.13091989999998077" 
+        category="Physiotherapist" 
+        address="113 Gauden Road"
+        address2="Clapham" 
+        city="London" 
+        state="" 
+        postal="SW4 6LE" 
+        country="UK"
+        phone="020 7627 2308"
+        email="admin@balancephysio.com"
+        details="http://sw12694.smart-web.dk/balance-performance-physiotherapy/" 
+        web="http://www.balancephysio.com" 
+        hours1="Mon, Tues, Wed, Thursday 6.00am until 9.00pm. Friday 6.00am until 6.00pm Saturday 8.00am until 5.00pm Open Bank Holiday Mondays and Good Friday. Closed Boxing Day, Xmas Day and New Year's Day" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+ergonomics,
+exercise classes,
+gait analysis,
+gym,
+home visits,
+hypermobility,
+injection therapy,
+interferential and therapeutic ultrasound,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+musculoskeletal ultrasound,
+neck pain,
+neurophysiotherapy,
+nutritional therapy,
+osteopathy,
+osteoporosis physiotherapy,
+personal training,
+physiotherapy,
+pilates,
+podiatry,
+post natal physio,
+post surgery physiotherapy,
+postural correction,
+rehabilitation services,
+remedial massage,
+running clinic,
+sports massage,
+sports medicine,
+whiplash,
+women's health,
+womens health physiotherapy" />
+        
+
+        <marker 
+        name="Barbican Physiotherapy Clinic" 
+        lat="51.51829550000001" 
+        lng=" -0.09318749999999909" 
+        category="Physiotherapist" 
+        address="1 The Postern"
+        address2="Wood Street" 
+        city="London" 
+        state="" 
+        postal="EC2Y 8BJ" 
+        country="UK"
+        phone="020 7606 6530 / 020 7628 4182"
+        email="info@barbicanphysio.co.uk" 
+        details="http://sw12694.smart-web.dk/barbican-physiotherapy-clinic"
+        web="http://www.barbicanphysio.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+gait analysis,
+pilates" />
+        
+        <marker 
+        name="Battersea Physio" 
+        lat="51.4649136" 
+        lng="-0.1792164999999386" 
+        category="Physiotherapist" 
+        address="Battersea Sports Centre"
+        address2="Hope Street" 
+        city="London" 
+        state="" 
+        postal="SW11 2DA" 
+        country="UK"
+        phone="0208 685 6930"
+        email="info@surreyphysio.co.uk"
+        details="" 
+        web="http://www.batterseaphysio.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+            chronic pain management,
+            clinical pilates (one to one),
+            ergonomics,
+            gait analysis,
+            gym,
+            home visits,
+            interferential and therapeutic ultrasound,
+            knee clinic,
+            low back pain,
+            musculoskeletal diagnostic ultrasound,
+            musculo-skeletal physiotherapy,
+            musculo-skeletal services,
+            musculoskeletal ultrasound,
+            neck pain,
+            physiotherapy,
+            post natal physio,
+            post surgery physiotherapy,
+            postural correction,
+            rehabilitation services,
+            running clinic,
+            sports massage,
+            whiplash,
+            women's health,
+            womens health physiotherapy" />
+      
+
+        <marker 
+        name="Beyond Health" 
+        lat="51.4758656" 
+        lng="-0.20095790000004854" 
+        category="Physiotherapist" 
+        address="Swan Mews"
+        address2="Parsons Green" 
+        city="London" 
+        state="" 
+        postal="
+SW6 4QT" 
+        country="UK"
+        phone="0207 610 7070"
+        email="be@beyond-health.co.uk"
+        details="" 
+        web="http://www.beyond-health.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="osteopathy,
+personal training,
+physiotherapy,
+sports massage" />
+        
+        <marker 
+        name="Bodies Under Construction Chiswick" 
+        lat="51.4746447" 
+        lng="-0.25525089999996453" 
+        category="Physiotherapist" 
+        address="The Riverside Health and Racquets Club"
+        address2="Dukes Meadows" 
+        city="Chiswick" 
+        state="Greater London" 
+        postal="W4 2SX" 
+        country="UK"
+        phone="02087474029"
+        email="Info@bodiesunderconstruction.com" 
+        details=""
+        web="http://www.bodiesunderconstruction.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+hydrotherapy,
+musculo-skeletal services,
+osteoporosis physiotherapy,
+physiotherapy,
+pilates,
+rehabilitation services,
+sports medicine,
+women's health" />
+     
+     
+        <marker 
+        name="Bodies Under Construction Putney" 
+        lat="51.46165939999999" 
+        lng="-0.2199442999999519" 
+        category="Physiotherapist" 
+        address="The Putney Clinic of Physical Therapy"
+        address2="2nd Floor, 266 Upper Richmond Road" 
+        city="Putney" 
+        state="Greater London" 
+        postal="SW15 6TQ" 
+        country="UK"
+        phone="0208 789 3881"
+        email="Info@bodiesunderconstruction.com"
+        details="" 
+        web="http://www.bodiesunderconstruction.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+hydrotherapy,
+musculoskeletal diagnostic ultrasound,
+osteoporosis physiotherapy,
+physiotherapy,
+pilates,
+post surgery physiotherapy,
+sports medicine,
+women's health" />
+        
+
+            <marker 
+        name="Bodybalance Physiotherapy &amp; Sports Injury Clinic" 
+        lat="51.76078099999999" 
+        lng="-0.25006600000006074" 
+        category="Physiotherapist" 
+        address="Hertfordshire Sports Village"
+        address2="de Havilland Campus" 
+        city="Hatfield" 
+        state="Hertfordshire" 
+        postal="AL10 9EU" 
+        country="UK"
+        phone="01707284910"
+        email="info@bodybalancephysio.com" 
+        details=""
+        web="http://www.bodybalancephysio.com" 
+        hours1="MONDAY - THURSDAY: 8 am - 8 pm FRIDAY: 8 am - 6pm SATURDAY: 8 am - 1 pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+        clinical pilates (one to one),
+        exercise classes,
+        gait analysis,
+        gym,
+        home visits,
+        hydrotherapy,
+        hypermobility,
+        knee clinic,
+        low back pain,
+        musculo-skeletal physiotherapy,
+        musculo-skeletal services,
+        neck pain,
+        physiotherapy,
+        pilates,
+        post surgery physiotherapy,
+        rehabilitation services,
+        remedial massage,
+        running clinic,
+        sports massage,
+        whiplash" />
+
+        
+    
+        <marker 
+        name="Bodybalance Physiotherapy &amp; Sports Injury Clinic" 
+        lat="51.59995809999999" 
+        lng="-0.23573869999995622" 
+        category="Physiotherapist" 
+        address="Laboratory Spa &amp; Health Club"
+        address2="1a Hall Lane" 
+        city="Hendon" 
+        state="London" 
+        postal="NW4 4TJ" 
+        country="UK"
+        phone="01707284910"
+        email="info@bodybalancephysio.com"
+        details="" 
+        web="http://www.bodybalancephysio.com" 
+        hours1="MONDAY - THURSDAY: 8 am - 8 pm FRIDAY: 8 am - 6 pm SATURDAY: 9 am - 1 pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+clinical pilates (one to one),
+gym,
+home visits,
+hydrotherapy,
+hypermobility,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+neck pain,
+physiotherapy,
+pilates,
+post surgery physiotherapy,
+rehabilitation services,
+remedial massage,
+running clinic,
+sports massage,
+sports medicine,
+whiplash" />
+        
+        <marker 
+        name="Broadgate Spine and Joint Clinic" 
+        lat="51.5168354" 
+        lng="-0.08651740000004793" 
+        category="Physiotherapist" 
+        address="65 London Wall"
+        address2="" 
+        city="London" 
+        state="" 
+        postal="EC2M 5TU" 
+        country="UK"
+        phone="02076384330"
+        email="Chris@movementperfected.com"
+        details="" 
+        web="http://www.broadgatespinecentre.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+physiotherapy,
+pilates" />
+        
+        <marker 
+        name="Central Health Physiotherapy" 
+        lat="51.5174423" 
+        lng="-0.1129280000000108" 
+        category="Physiotherapist" 
+        address="Chancery House"
+        address2="53-64 Chancery Lane" 
+        city="London" 
+        state="" 
+        postal="WC2A 1QS" 
+        country="UK"
+        phone="020 7404 6343"
+        email="reception@central-health.com"
+        details="" 
+        web="http://www.central-health.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="ergonomics,
+neurophysiotherapy,
+osteoporosis physiotherapy,
+physiotherapy,
+vestibular physiotherapy" />
+        
+        <marker 
+        name="Central Health Physiotherapy - Hospital of St John and St Elizabeth" 
+        lat="51.5333227" 
+        lng="-0.17504170000006525" 
+        category="Physiotherapist" 
+        address="The Hospital of St John and St Elizabeth"
+        address2="60 Grove End Road" 
+        city="London" 
+        state="" 
+        postal="NW8 9NH" 
+        country="UK"
+        phone="020 7806 4010"
+        email="physiotherapy@hje.org.uk"
+        details="" 
+        web="http://www.thephysiotherapyunit.org.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="ergonomics,
+hypermobility,
+neurophysiotherapy,
+physiotherapy,
+vestibular physiotherapy,
+womens health physiotherapy" />
+        
+        <marker 
+        name="City Road Physio" 
+        lat="51.5274369" 
+        lng="-0.08910820000005515" 
+        category="Physiotherapist" 
+        address="First Floor - Kemp House"
+        address2="152-160 City Road" 
+        city="London" 
+        state="" 
+        postal="EC1V 2NP" 
+        country=""
+        phone="0207 608 8500"
+        email="info@cityroadphysio.co.uk"
+        details="" 
+        web="http://www.cityroadphysio.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="physiotherapy" />
+        
+        <marker 
+        name="Covent Garden Physiotherapy and Sports Injury Clinic" 
+        lat="51.5109900" 
+        lng="-0.1242640" 
+        category="Physiotherapist" 
+        address="Ground Floor, 23-24"
+        address2="Henrietta Street" 
+        city="London" 
+        state="" 
+        postal="WC2E 8ND" 
+        country="UK"
+        phone="0207 497 8974"
+        email="info@coventgardenphysio.com
+" 
+        details=""
+        web="www.coventgardenphysio.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="gym
+musculo-skeletal physiotherapy,
+pilates,
+rehabilitation services,
+women's health" />
+        
+        <marker 
+        name="Cranfold Physical Therapy Centre" 
+        lat=" 51.1416740" 
+        lng="-0.4899010" 
+        category="Physiotherapist" 
+        address="107 High Street"
+        address2="" 
+        city="Cranleigh" 
+        state="Surrey" 
+        postal="GU6 8AU" 
+        country="UK"
+        phone="	01483 267747"
+        email="reception@cranfoldphysio.co.uk" 
+        details=""
+        web="www.cranfoldphysio.co.uk" 
+        hours1="Monday 08.30-19.00 Tuesday 08.30-21.00 Wednesday 08.30-19.00 Thursday 08.30-20.00 Friday 09.00-17.00 Saturday 09.00-13.00" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+clinical pilates (one to one),
+ergonomics,
+home visits,
+interferential and therapeutic ultrasound,
+low back pain,
+musculoskeletal diagnostic ultrasound,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+neck pain,
+physiotherapy,
+pilates,
+podiatry,
+post surgery physiotherapy,
+remedial massage,
+sports massage,
+sports medicine" />
+        
+        <marker 
+        name="Cranfold Physical Therapy Centre" 
+        lat="51.2352380" 
+        lng="-0.3248320" 
+        category="Physiotherapist" 
+        address="The Medwyn Centre"
+        address2="Reigate Road" 
+        city="Dorking" 
+        state="Surrey" 
+        postal="RH4 1SD" 
+        country="UK"
+        phone="01306 740784"
+        email="reception@cranfoldphysio.co.uk" 
+        details=""
+        web="www.cranfoldphysio.co.uk" 
+        hours1="Monday 09.00-17.30 Tuesday 09.00-17.30 Wednesday 08.30-13.30 Thursday 09.00-17.30 Friday 08.30-17.30" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+home visits,
+interferential and therapeutic ultrasound,
+low back pain,
+musculo-skeletal physiotherapy,
+neck pain,
+physiotherapy,
+post surgery physiotherapy" />
+
+        <marker 
+        name="Cranfold Physical Therapy Centre" 
+        lat="51.0607300" 
+        lng="-0.3270700" 
+        category="Physiotherapist" 
+        address="Total Therapy Studios"
+        address2="2 Denne Parade" 
+        city="Horsham" 
+        state="West Sussex" 
+        postal="RH12 1JD" 
+        country="UK"
+        phone="0845 025 4000"
+        email="reception@cranfoldphysio.co.uk" 
+        details=""
+        web="www.cranfoldphysio.co.uk" 
+        hours1="Monday 09.30-20.00 Tuesday 09.30-14.30 Wednesday 12.30-20.00 Thursday 17.00-20.00 Friday - From Jan 2015 Saturday - From Jan 2015" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+home visits,
+interferential and therapeutic ultrasound,
+low back pain,
+musculo-skeletal physiotherapy,
+neck pain,
+physiotherapy,
+post surgery physiotherapy" />
+
+        <marker 
+        name="Cranfold Physical Therapy Centre" 
+        lat="51.0237180" 
+        lng="-0.3503610" 
+        category="Physiotherapist" 
+        address="The Village Surgery"
+        address2="Station Road" 
+        city="Southwater" 
+        state="West Sussex" 
+        postal="RH13 9HQ" 
+        country="UK"
+        phone="0845 025 4000"
+        email="reception@cranfoldphysio.co.uk" 
+        details=""
+        web="www.cranfoldphysio.co.uk" 
+        hours1="Monday 14.00-18.00 Wednesday - 09.30-11.30 (Pilates classes only) Thursday 08.30-13.00" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+clinical pilates (one to one),
+home visits,
+interferential and therapeutic ultrasound,
+low back pain,
+musculo-skeletal physiotherapy,
+neck pain,
+physiotherapy,
+pilates,
+post surgery physiotherapy" />
+        
+        <marker 
+        name="Croydon Physio" 
+        lat="51.3552970" 
+        lng="-0.0441610" 
+        category="Physiotherapist" 
+        address="Addington Palace"
+        address2="Gravel Hill" 
+        city="Croydon" 
+        state="Surrey" 
+        postal="CR0 5BB" 
+        country="UK"
+        phone="0208 662 5059"
+        email="info@croydonphysio.co.uk" 
+        details=""
+        web="http://croydonphysio.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+ergonomics,
+gait analysis,
+gym,
+home visits,
+injection therapy,
+knee clinic,
+low back pain,
+musculoskeletal diagnostic ultrasound,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+musculoskeletal ultrasound,
+neck pain,
+neurophysiotherapy,
+osteopathy,
+osteoporosis physiotherapy,
+physiotherapy,
+pilates,
+post natal physio,
+post surgery physiotherapy,
+postural correction,
+rehabilitation services,
+remedial massage,
+sports massage,
+sports medicine,
+vestibular physiotherapy,
+whiplash,
+women's health,
+womens health physiotherapy" />
+        
+        <marker 
+        name="Darren Chandler" 
+        lat="51.5293410" 
+        lng="-0.0316510" 
+        category="Physiotherapist" 
+        address="98a Coborn Road"
+        address2="Bow" 
+        city="London" 
+        state="" 
+        postal="E2DG" 
+        country="UK"
+        phone="02089809664"
+        email="darren@spineplusbow.co.uk" 
+        details=""
+        web="www.spineplus.co.uk" 
+        hours1="9am - 8pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture, 
+                  clinical pilates (one to one),
+                  osteopathy" />
+        
+        <marker 
+        name="Elaine Atkins Physiotherapy" 
+        lat="51.5996590" 
+        lng="0.0205910" 
+        category="Physiotherapist" 
+        address="154 High Road"
+        address2="Woodford Green" 
+        city="London" 
+        state="" 
+        postal="IG8 9EF" 
+        country="UK"
+        phone="020 8504 0478"
+        email="management@elaineatkins.com" 
+        details=""
+        web="www.elaineatkins.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="neurophysiotherapy" />
+        
+        <marker 
+        name="ESPH (Dulwich)" 
+        lat="51.4559920" 
+        lng="-0.0765020" 
+        category="Physiotherapist" 
+        address="116 Lordship Lane"
+        address2="East Dulwich" 
+        city="London" 
+        state="Greater London" 
+        postal="SE22 8HD" 
+        country="UK"
+        phone="0208 693 2493"
+        email="info@esph.co.uk" 
+        details=""
+        web="www.esph.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+dietetics,
+ergonomics,
+gym,
+isokinetic testing,
+musculo-skeletal physiotherapy,
+physiotherapy,
+post natal physio,
+sports massage,
+yoga" />
+
+        <marker 
+        name="ESPH (Harley Street)" 
+        lat="51.5178690" 
+        lng="-0.1461180" 
+        category="Physiotherapist" 
+        address="22 Harley Street"
+        address2="" 
+        city="London" 
+        state="Greater London" 
+        postal="W1G 9PL" 
+        country="UK"
+        phone="0207 907 1900"
+        email="info@esph.co.uk" 
+        details=""
+        web="www.esph.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+ergonomics,
+low back pain,
+musculoskeletal diagnostic ultrasound,
+musculo-skeletal physiotherapy,
+neck pain,
+pilates,
+podiatry" />
+        
+        <marker 
+        name="First Physio" 
+        lat="51.5915990" 
+        lng="0.0320970" 
+        category="Physiotherapist" 
+        address="5 Ashford Road"
+        address2="South Woodford" 
+        city="London" 
+        state="" 
+        postal="E18 1JZ" 
+        country="UK"
+        phone="0208 989 6848"
+        email="admin@first-physio.co.uk" 
+        details=""
+        web="www.first-physio.co.uk" 
+        hours1="Monday – Friday 9am – 7pm Saturday 9am – 1pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+physiotherapy,
+sports massage,
+" />
+        
+        <marker 
+        name="Garry Trainer Clinic" 
+        lat="51.5401040" 
+        lng="-0.1512330" 
+        category="Physiotherapist" 
+        address="65 Princess Road"
+        address2="Primrose Hill" 
+        city="London" 
+        state="" 
+        postal="NW1 8JS" 
+        country="UK"
+        phone="020 7722 6203"
+        email="garry@garrytrainer.com" 
+        details=""
+        web="www.garrytrainer.com" 
+        hours1="Mon / Tues - 7am-8pm, Weds/Thurs - 8am-7pm, Fri - 7am-7pm, Sat - 9am-6pm, Sun - 9am-1pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+neck pain,
+osteopathy,
+physiotherapy,
+post natal physio,
+postural correction,
+rehabilitation services,
+remedial massage,
+sports massage" />
+        
+        <marker 
+        name="Harley Street Physiotherapy" 
+        lat="51.5212670" 
+        lng="-0.1493550" 
+        category="Physiotherapist" 
+        address="12 Upper Wimpole Street"
+        address2="" 
+        city="London" 
+        state="" 
+        postal="W1G 6LW" 
+        country="UK"
+        phone="020 7224 4588"
+        email="harleystphysio@btconnect.com" 
+        details=""
+        web="www.harleystreetphysiotherapy.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="physiotherapy" />
+        
+        <marker 
+        name="In Motion Physiotherapy Ltd." 
+        lat="51.5171040" 
+        lng="-0.1728800" 
+        category="Physiotherapist" 
+        address="Winston Churchill Building, St Mary's Hospital"
+        address2="Praed St" 
+        city="London" 
+        state="" 
+        postal="W2 1NY" 
+        country="UK"
+        phone="07582444601"
+        email="imphysio1@gmail.com" 
+        details=""
+        web="www.imphysiotherapy.com" 
+        hours1="Clinic hours: 17.45 - 21.00 Home visits weekdays and weekends on request" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+ergonomics,
+gait analysis,
+gym,
+home visits,
+hydrotherapy,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+musculoskeletal ultrasound,
+neck pain,
+osteoporosis physiotherapy,
+personal training,
+physiotherapy,
+pilates,
+post natal physio,
+post surgery physiotherapy,
+postural correction,
+rehabilitation services,
+sports massage,
+sports medicine,
+vestibular physiotherapy,
+whiplash,
+women's health,
+womens health physiotherapy" />
+       
+        <marker 
+        name="Josephine Lawson Physiotherapy Clinic" 
+        lat="51.5125970" 
+        lng="-0.0792430" 
+        category="Physiotherapist" 
+        address="107 Fenchurch Street"
+        address2="" 
+        city="London" 
+        state="" 
+        postal="EC3M 5JF" 
+        country="UK"
+        phone="020 7488 4924"
+        email="care@cityphysio.co.uk" 
+        details=""
+        web="www.cityphysio.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="physiotherapy" />
+        
+        <marker 
+        name="Kensington Physio and Sports Medicine" 
+        lat="51.5141320" 
+        lng="-0.1998870" 
+        category="Physiotherapist" 
+        address="Notting Hill"
+        address2="11 Lambton Place" 
+        city="London" 
+        state="" 
+        postal="W11 2SH" 
+        country="UK"
+        phone="020 3553 2190"
+        email="info@kenphysio.com" 
+        details=""
+        web="http://www.kenphysio.com/about/locations/notting-hill-lambton-place/" 
+        hours1="Monday: 8:00 am – 8:00 pm Tuesday: 8:00 am – 8:00 pm Wednesday: 8:00 am – 8:00 pm Thursday: 8:00 am – 8:00 pm Friday: 8:00 am – 5:00 pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+ergonomics,
+exercise classes,
+gait analysis,
+gym,
+home visits,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+neck pain,
+nutritional therapy,
+personal training,
+physiotherapy,
+pilates,
+post surgery physiotherapy,
+postural correction,
+rehabilitation services,
+remedial massage,
+running clinic,
+sports massage,
+sports medicine,
+whiplash" />
+        
+        <marker 
+        name="Kensington Physio and Sports Medicine" 
+        lat="51.4941310" 
+        lng="-0.1683330" 
+        category="Physiotherapist" 
+        address="Chelsea at The Westover"
+        address2="13 Crescent Place" 
+        city="London" 
+        state="" 
+        postal="SW3 2EA" 
+        country="UK"
+        phone="0207 603 0040"
+        email="" 
+        details=""
+        web="http://www.kenphysio.com/about/locations/chelsea-crescent-place/" 
+        hours1="Monday: 8:00 am – 8:00 pm Tuesday: 8:00 am – 8:00 pm Wednesday: 8:00 am – 8:00 pm Thursday: 8:00 am – 8:00 pm Friday: 8:00 am – 5:00 pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+ergonomics,
+exercise classes,
+gait analysis,
+gym,
+home visits,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+musculoskeletal ultrasound,
+neck pain,
+nutritional therapy,
+personal training,
+physiotherapy,
+pilates,
+post natal physio,
+post surgery physiotherapy,
+postural correction,
+rehabilitation services,
+running clinic,
+sports massage,
+sports medicine,
+whiplash,
+women's health,
+womens health physiotherapy" />
+        
+        <marker 
+        name="Kensington Physio and Sports Medicine" 
+        lat="51.5000270" 
+        lng="-0.2112120" 
+        category="Physiotherapist" 
+        address="7 Russell Gardens"
+        address2="Kensington" 
+        city="London" 
+        state="" 
+        postal="W14 8EZ" 
+        country="UK"
+        phone="0207 603 0040"
+        email="info@kenphysio.com" 
+        details=""
+        web="" 
+        hours1="8am - 8pm Monday to Friday" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+ergonomics,
+exercise classes,
+gait analysis,
+gym,
+home visits,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+neck pain,
+physiotherapy,
+post natal physio,
+post surgery physiotherapy,
+postural correction,
+rehabilitation services,
+remedial massage,
+running clinic,
+sports massage,
+sports medicine,
+whiplash,
+women's health,
+womens health physiotherapy" />
+       
+        <marker 
+        name="Kensington Physio and Sports Medicine" 
+        lat="51.5000270" 
+        lng="-0.2112120" 
+        category="Physiotherapist" 
+        address="Wandsworth at The Westover"
+        address2="15 Bellevue Road" 
+        city="London" 
+        state="" 
+        postal="SW17 7EG" 
+        country="UK"
+        phone="0207 603 0040"
+        email="info@kenphysio.com" 
+        details=""
+        web="http://www.kenphysio.com/about/locations/wandsworth-bellevue-road/" 
+        hours1="Monday: 8:00 am – 8:00 pm Tuesday: 8:00 am – 8:00 pm Wednesday: 8:00 am – 8:00 pm Thursday: 8:00 am – 8:00 pm Friday: 8:00 am – 5:00 pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+ergonomics,
+exercise classes,
+gait analysis,
+home visits,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+musculoskeletal ultrasound,
+neck pain,
+nutritional therapy,
+personal training,
+physiotherapy,
+pilates,
+postural correction,
+rehabilitation services,
+remedial massage,
+running clinic,
+sports massage,
+sports medicine,
+whiplash,
+women's health,
+womens health physiotherapy" />
+
+        <marker 
+        name="Marylebone Physiotherapy and Sport Medicine" 
+        lat="51.5233860" 
+        lng="-0.1601840" 
+        category="Physiotherapist" 
+        address="Health Consultants Inc."
+        address2="8 Dorset Square" 
+        city="London" 
+        state="" 
+        postal="NW1 6PU" 
+        country="UK"
+        phone="0845 370 8222"
+        email="info@marylebonephysio.com" 
+        details=""
+        web="www.marylebonephysio.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+dance medicine,
+home visits,
+musculoskeletal ultrasound,
+physiotherapy,
+pilates,
+running clinic" />
+        
+        <marker 
+        name="Oxford Circus Physiotherapy" 
+        lat="51.5173164" 
+        lng="-0.1418540" 
+        category="Physiotherapist" 
+        address="Oxford Circus Physio"
+        address2="33 Great Titchfield Street" 
+        city="London" 
+        state="" 
+        postal="W1W 7PA" 
+        country="UK"
+        phone="02076365774"
+        email="reception@oxfordcircusphysio.co.uk" 
+        details=""
+        web="www.oxfordcircusphysio.co.uk" 
+        hours1="Mon: Thurs 8.00am - 19.00pm Fri: 8.00am - 18.00pm" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+gait analysis,
+interferential and therapeutic ultrasound,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculoskeletal ultrasound,
+neck pain,
+personal training,
+physiotherapy,
+pilates,
+podiatry,
+post natal physio,
+post surgery physiotherapy,
+rehabilitation services,
+remedial massage,
+sports massage,
+womens health physiotherapy" />
+        
+        <marker 
+        name="Physio on the River Ltd" 
+        lat="51.4727350" 
+        lng="-0.2521500" 
+        category="Physiotherapist" 
+        address="The Old Ticket Office,
+                 Barnes Bridge, The Terrace"
+        address2="Barnes" 
+        city="London" 
+        state="" 
+        postal="SW13 0NP" 
+        country="UK"
+        phone="020 8876 5690"
+        email="help@physio-on-the-river.co.uk" 
+        details=""
+        web="www.physio-on-the-river.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+home visits,
+physiotherapy,
+pilates,
+yoga" />
+        
+        <marker 
+        name="Physio Solutions" 
+        lat="51.5331090" 
+        lng="-0.1094020" 
+        category="Physiotherapist" 
+        address="23 Baron Street"
+        address2="" 
+        city="London" 
+        state="" 
+        postal="N1 9ET" 
+        country="UK"
+        phone="020 7713 7780"
+        email="info@physiosolutions.co.uk" 
+        details=""
+        web="www.physiosolutions.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="clinical pilates (one to one),
+ergonomics,
+physiotherapy,
+sports massage" />
+        
+        <marker 
+        name="PhysioQinetics (Staines)" 
+        lat="" 
+        lng="" 
+        category="Physiotherapist" 
+        address="Spelthorne Leisure Centre"
+        address2="Knowle Green" 
+        city="Staines-upon-Thames" 
+        state="Surrey" 
+        postal="TW18 1AJ" 
+        country="UK"
+        phone="01784 532388"
+        email="michelle.lai@physioqinetics.com" 
+        details=""
+        web="www.physioQinetics.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="chronic pain management,
+electro-acupuncture,
+interferential and therapeutic ultrasound,
+physiotherapy" />
+
+        <marker 
+        name="PhysioQinetics (Uxbridge)" 
+        lat="" 
+        lng="" 
+        category="Physiotherapist" 
+        address="198 Harlington Road"
+        address2="" 
+        city="Uxbridge" 
+        state="Greater London" 
+        postal="UB8 3HA" 
+        country="UK"
+        phone="01895 255139"
+        email="michelle.lai@physioqinetics.com" 
+        details=""
+        web="www.physioQinetics.com" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="chronic pain management,
+electro-acupuncture,
+interferential and therapeutic ultrasound,
+physiotherapy" />
+        
+        <marker 
+        name="Physiotherapy @ 30, Devonshire Street" 
+        lat="" 
+        lng="" 
+        category="Physiotherapist" 
+        address="30, Devonshire Street"
+        address2="Marylebone" 
+        city="London" 
+        state="Greater London" 
+        postal="W1G 6PU" 
+        country="UK"
+        phone="02079083660"
+        email="" 
+        details=""
+        web="http://theprincessgracehospital.com/hospital-services/services/physiotherapy/#Outpatient" 
+        hours1="08:00 to 18:00 Monday to Friday" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="acupuncture,
+chronic pain management,
+clinical pilates (one to one),
+ergonomics,
+exercise classes,
+gait analysis,
+gym,
+hydrotherapy,
+hypermobility,
+interferential and therapeutic ultrasound,
+knee clinic,
+low back pain,
+musculo-skeletal physiotherapy,
+musculo-skeletal services,
+musculoskeletal ultrasound,
+neck pain,
+physiotherapy,
+pilates,
+post surgery physiotherapy,
+postural correction,
+rehabilitation services,
+running clinic,
+sports medicine,
+whiplash" />
+        
+        <marker 
+        name="Physiotherapy in Chelsea" 
+        lat="51.4943016" 
+        lng="-0.1597830" 
+        category="Physiotherapist" 
+        address="47 Cadogan Square"
+        address2="Chelsea" 
+        city="London" 
+        state="" 
+        postal="SW3 2QJ" 
+        country="UK"
+        phone="020 7584 9054"
+        email="mail@physio-chelsea.co.uk" 
+        details=""
+        web="www.physio-chelsea.co.uk" 
+        hours1="" 
+        hours2="" 
+        hours3="" 
+        featured="" 
+        features="physiotherapy,
+postural correction" />

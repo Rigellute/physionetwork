@@ -13,16 +13,16 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400" rel="stylesheet" type="text/css">
 
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-example.css" />
 
     <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
 
 <body>
-    <header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
+    <header class="navbar navbar-inverse navbar-static-top bs-docs-nav" role="banner">
         <div class="container">
             <div class="navbar-header">
                 <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
@@ -36,7 +36,7 @@
             <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">About</a>
+                        <a href="#" data-toggle="modal" data-target="#myModal">About</a>
                     </li>
                     <li>
                         <a href="#">Contact</a>
@@ -46,6 +46,28 @@
             </nav>
         </div>
     </header>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">About</h4>
+                </div>
+                <div class="modal-body">
+                    <img class="img-responsive center-block" src="assets/img/Spine_Surgery_logo.svg" alt="Chania">
+                    <p class="lead">Say here why the physio network exists. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam inventore corporis architecto numquam. Neque esse repellendus perspiciatis cumque iure dicta aliquid reiciendis pariatur porro. Optio quidem, eligendi laudantium reiciendis quaerat!</p>
+                    <p class="lead">Spine Surgery London are Leading Specialists in Spinal Disorders. The very latest techniques are available at The Spine Surgery London, including endoscopic spinal surgery, microdiscectomy, total disc replacement, minimally invasive fusion surgery and kyphoplasty. The Spine Surgery London is a true "one stop shop" providing diagnosis, treatment and rehabilitation. Everything from information to injections to full spinal reconstruction surgery.</p>
+                   
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="bh-sl-container">
 
         <div class="parallaxParent">
@@ -64,20 +86,21 @@
                         </div>
 
                         <select style="color: #333" id="bh-sl-maxdistance" name="bh-sl-maxdistance" class="form-control header-content">
+                            <option value="1">1 Mile</option>
+                            <option value="2">2 Miles</option>
+                            <option value="5">5 Miles</option>
                             <option value="10">10 Miles</option>
-                            <option value="20">20 Miles</option>
-                            <option value="30">30 Miles</option>
-                            <option value="40">40 Miles</option>
                         </select>
 
                         <button id="bh-sl-submit" class="btn btn-success header-content" type="submit">Submit</button>
 
-                        <button class="header-content filter-service btn  btn-primary">Filter Service</button>
+                        <!--
+                        <p class="header-content filter-service btn  btn-primary" type="submit">Filter Service</p>
 
 
                         <div style="text-align: left" class="bh-sl-filters-container">
-                            <!--Original ul filter list class="class="bh-sl-filters"-->
-                            <ul id="category-filters-container2" class="container no-list-style">
+                            
+                            <ul id="category-filters-container2" class="bh-sl-filters container no-list-style">
                                 <li>
                                     <h3>Services</h3></li>
                                 <div class="row">
@@ -128,6 +151,7 @@
                                 </div>
                             </ul>
                         </div>
+-->
 
                     </form>
                 </div>
@@ -137,16 +161,87 @@
 
 
 
-        <div id="map-container" class="bh-sl-map-container container map-container-spacer">
+        <div id="map-container" class="bh-sl-map-container container container-map map-container-spacer">
             <div class="bh-sl-form-container search-again-container">
                 <h3>Results:</h3>
+
+
+                <div class="second-filter-list">
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <p class="header-content filter-service btn  btn-primary" type="submit">Filter Service</p>
+                        </div>
+                        <div class="col-xs-6">
+                            <!--                    <span id="pin1" class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>-->
+
+                            <!--                           Have tried adding 'pull-left' class, but scroll magic does not like it-->
+                            <button id="pin1" class="btn btn-warning" type="button">Scroll Back Up</button>
+                        </div>
+                    </div>
+                    <div style="text-align: left" class="bh-sl-filters-container">
+                        <!--Original ul filter list class="class="bh-sl-filters"-->
+                        <ul id="category-filters-container2" class="second-list-no-padding bh-sl-filters container no-list-style">
+                            <li>
+                                <h3>Services</h3></li>
+                            <div class="row">
+                                <div class="col-xs- col-sm- col-md-3">
+                                    <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="Gait Analysis">Gait Analysis
+                                        </label>
+                                    </li>
+                                    <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="Acupuncture">Acupuncture
+                                        </label>
+                                    </li>
+                                    <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="Osteopathy">Osteopathy
+                                        </label>
+                                    </li>
+                                    <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="Hydrotherapy">Hydrotherapy
+                                        </label>
+                                    </li>
+                                </div>
+                                <div class="col-xs- col-sm- col-md-3">
+                                    <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="Podiatry">Podiatry
+                                        </label>
+                                    </li>
+                                    <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="Pilates">Pilates
+                                        </label>
+                                    </li>
+                                    <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="Ergonomics">Ergonomics
+                                        </label>
+                                    </li>
+                                    <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="Home Visits">Home/Office Vists
+                                        </label>
+                                    </li>
+                                </div>
+                            </div>
+                            <p class="filter-service btn btn-sm btn-success" type="submit">Done</p>
+                        </ul>
+                    </div>
+                </div>
+
             </div>
             <div class="row">
-                <div id="map-results-container" class="container">
-                    <div id="bh-sl-map" class="bh-sl-map col-md-9"></div>
+                <div id="map-results-container">
                     <div class="bh-sl-loc-list col-md-3">
                         <ul class="list list-unstyled"></ul>
                     </div>
+                    <div id="bh-sl-map" class="bh-sl-map col-md-9"></div>
+
                 </div>
             </div>
 
@@ -154,28 +249,32 @@
 
     </div>
 
+
+
+    <!--
     <footer>
-       <div class="container">
-             <p>&copy; Company 2015</p>
+        <div class="container">
+            <p>&copy; Company 2015</p>
         </div>
     </footer>
+-->
 
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
     </script>
 
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.4/handlebars.min.js"></script>
-    <script src="https://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/plugins/CSSRulePlugin.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/plugins/ScrollToPlugin.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.js"></script>
-    <script src="assets/js/jquery.storelocator.js"></script>
+    <script src="assets/js/jquery.storelocator2.js"></script>
     <script src="assets/js/main.js"></script>
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site"s ID. -->

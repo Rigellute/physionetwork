@@ -1,12 +1,195 @@
 {{#location}}
-<div class="loc-name">{{name}}</div>
-<div>{{address}}</div>
-<div>{{address2}}</div>
-<div>{{city}}{{#if city}},{{/if}} {{state}} {{postal}}</div>
-<div>{{hours1}}</div>
-<div>{{hours2}}</div>
-<div>{{hours3}}</div>
-<div>{{phone}}</div>
-<div class="more-details"><a href="{{details}}">More Details</a></div>
-<!--<div><a href="{{{web}}}" target="_blank">{{niceURL web}}</a></div>-->
+<div class="info-window-container">
+    <div class="loc-name">
+        <h2>{{name}}</h2></div>
+
+
+    {{#if practiceImage}}
+    <div class="row">
+        <img style="max-width: 90% margin-top: 2%; margin-bottom: 2%" class="clinician-image img-responsive img-rounded center-block" src="assets/img/Images/{{practiceImage}}" alt="Chania">
+    </div> {{/if}}
+
+
+
+    <div class="row">
+        <div class="col-md-6">
+            <h5>Address</h5>
+            <div class="window-descrpition-main">{{address}}</div>
+            <div class="window-descrpition-main">{{address2}}</div>
+            <div class="window-descrpition-main">{{city}}{{#if city}},{{/if}} {{state}} {{postal}}</div>
+            {{#if hours1}}
+            <h5>Hours</h5> {{/if}}
+            <div class="window-descrpition-main">{{hours1}}</div>
+            <div class="window-descrpition-main">{{hours2}}</div>
+            <div class="window-descrpition-main">{{hours3}}</div>
+            <div class="window-descrpition-main">
+                <h5>Phone:</h5>{{phone}}</div>
+            <div class="window-descrpition-main">
+                <h5>Website:</h5>
+                <div>
+                    <a href="http://{{web}}" target="_blank">{{niceURL web}}</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            {{#if features}}
+            <h5>Services</h5>
+            <p class="window-descrpition-main features-list">{{breaklines features}}</p>
+            {{/if}}
+        </div>
+    </div>
+
+    <hr> {{#if practiceDescription}}
+    <div class="window-descrpition">
+        <h3>Description</h3>
+        <p>{{practiceDescription}}</p>
+    </div>
+    {{/if}} 
+    
+    {{#if clinicianName1}}
+    <h3>Clinicians</h3>
+    <div class="row window-descrpition">
+
+        {{#if clinicianImage1}}
+        <div class="col-md-6">
+            <img style="max-width: 90%" class="clinician-image center-block img-responsive img-rounded" src="assets/img/Images/{{clinicianImage1}}" alt="Chania">
+        </div>
+        {{/if}}
+
+        <div class="col-md-6">
+            <h4>{{clinicianName1}}</h4>
+            {{#if clinicianBio1}}
+            <p><strong>Bio:</strong>
+                <br> {{clinicianBio1}}
+            </p>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}} {{#if clinicianName2}}
+    <div class="row window-descrpition">
+
+        {{#if clinicianImage2}}
+        <div class="col-md-6">
+            <img class="clinician-image center-block img-responsive img-rounded" src="assets/img/Images/{{clinicianImage2}}" alt="Chania">
+        </div>
+        {{/if}}
+
+        <div class="col-md-6">
+            <h4>{{clinicianName2}}</h4>
+            {{#if clinicianBio2}}
+            <p><strong>Bio:</strong>
+                <br> {{clinicianBio2}}
+            </p>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}} {{#if clinicianName3}}
+    <div class="row window-descrpition">
+        
+            {{#if clinicianImage3}}
+            <div class="col-md-6">
+            <img class="clinician-image center-block img-responsive img-rounded" src="assets/img/Images/{{clinicianImage3}}" alt="Chania"> 
+            </div>
+            {{/if}}
+        
+        <div class="col-md-6">
+            <h4>{{clinicianName3}}</h4>
+            {{#if clinicianBio3}}
+            <p><strong>Bio:</strong>
+                <br> {{clinicianBio3}}
+            </p>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}} {{#if clinicianName4}}
+    <div class="row window-descrpition">
+        
+            {{#if clinicianImage4}}
+            <div class="col-md-6">
+            <img class="clinician-image center-block img-responsive img-rounded" src="assets/img/Images/{{clinicianImage4}}" alt="Chania"> 
+        </div>
+            {{/if}}
+        <div class="col-md-6">
+            <h4>{{clinicianName4}}</h4>
+            {{#if clinicianBio4}}
+            <p><strong>Bio:</strong>
+                <br> {{clinicianBio4}}
+            </p>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}} {{#if clinicianName5}}
+
+    <div class="row window-descrpition">
+        
+            {{#if clinicianImage5}}
+            <div class="col-md-6">
+                <img class="clinician-image center-block img-responsive img-rounded" src="assets/img/Images/{{clinicianImage5}}" alt="Chania"> </div>
+                {{/if}}
+        
+        <div class="col-md-6">
+            <h4>{{clinicianName5}}</h4>
+            {{#if clinicianBio5}}
+            <p><strong>Bio:</strong>
+                <br> {{clinicianBio5}}
+            </p>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}} {{#if clinicianName6}}
+
+    <div class="row window-descrpition">
+        
+            {{#if clinicianImage6}}
+            <div class="col-md-6">
+                <img class="clinician-image center-block img-responsive img-rounded" src="assets/img/Images/{{clinicianImage6}}" alt="Chania"></div>
+                {{/if}}
+        
+        <div class="col-md-6">
+            <h4>{{clinicianName6}}</h4>
+            {{#if clinicianBio6}}
+            <p><strong>Bio:</strong>
+                <br> {{clinicianBio6}}
+            </p>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}} {{#if clinicianName7}}
+
+    <div class="row window-descrpition">
+        
+            {{#if clinicianImage7}}
+            <div class="col-md-6">
+            <img class="clinician-image center-block img-responsive img-rounded" src="assets/img/Images/{{clinicianImage7}}" alt="Chania"> 
+        </div>
+            {{/if}}
+        <div class="col-md-6">
+            <h4>{{clinicianName7}}</h4>
+            {{#if clinicianBio7}}
+            <p><strong>Bio:</strong>
+                <br> {{clinicianBio7}}
+            </p>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}} {{#if clinicianName8}}
+
+    <div class="row window-descrpition">
+        
+            {{#if clinicianImage8}}
+            <div class="col-md-6">
+                <img class="clinician-image center-block img-responsive img-rounded" src="assets/img/Images/{{clinicianImage8}}" alt="Chania"></div>{{/if}}
+    
+        <div class="col-md-6">
+            <h4>{{clinicianName8}}</h4>
+            {{#if clinicianBio8}}
+            <p><strong>Bio:</strong>
+                <br> {{clinicianBio8}}
+            </p>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}}
+    <!--    <div class="more-details"><a href="{{details}}">More Details</a></div>-->
+    <!--<div><a href="{{{web}}}" target="_blank">{{niceURL web}}</a></div>--></div>
 {{/location}}
