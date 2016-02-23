@@ -65,11 +65,11 @@ label {
 }
 
 .parallax-1 {
-    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(../img/iStock_000025433651_Medium-min.jpg);
-    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(../img/iStock_000025433651_Medium-min.jpg);
-    background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(../img/iStock_000025433651_Medium-min.jpg);
+    background: -webkit-linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(../img/PhysiotherapyImg.jpg);
+    background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(../img/PhysiotherapyImg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     height: 105vh;
     position: relative;
     background-color: #003459;
@@ -81,7 +81,6 @@ label {
     left: 50%;
     margin-right: -50%;
     -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     position: absolute;
     text-align: center;
@@ -104,7 +103,6 @@ label {
     /*    width: auto !important;*/
     position: relative;
     -webkit-transform-origin: right;
-    -ms-transform-origin: right;
     transform-origin: right;
 }
 
