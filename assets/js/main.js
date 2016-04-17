@@ -3,6 +3,7 @@ $(document).ready(function () {
     if (window.matchMedia("(min-width: 64.063em)").matches) {
         $("#map-container").storeLocator({
             'maxDistance': true,
+            'nameSearch': true,
             'taxonomyFilters': {
                 'features': 'category-filters-container2'
             },
@@ -31,6 +32,9 @@ $(document).ready(function () {
         });
         console.log('desktop');
     } else {
+        
+        $('.disappear-for-mobile').hide();
+        $('.remove-pull-mobile').removeClass('pull-right pull-left');
 //        init map
         $("#map-container").storeLocator({
             'maxDistance': true,

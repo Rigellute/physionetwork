@@ -36,10 +36,10 @@
             <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#" data-toggle="modal" data-target="#myModal">About</a>
+                        <a href="#" data-toggle="modal" data-target="#myModal">About Us</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="#" data-toggle="modal" data-target="#contactModel">Contact</a>
                     </li>
 
                 </ul>
@@ -47,19 +47,39 @@
         </div>
     </header>
 
-    <!-- Modal -->
+    <!-- About Us Modal -->
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">About</h4>
+                    <h4 class="modal-title" id="myModalLabel">About Us</h4>
                 </div>
                 <div class="modal-body">
                     <img class="img-responsive center-block" src="assets/img/Spine_Surgery_logo.svg" alt="Chania">
                     <p class="lead">Say here why the physio network exists. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam inventore corporis architecto numquam. Neque esse repellendus perspiciatis cumque iure dicta aliquid reiciendis pariatur porro. Optio quidem, eligendi laudantium reiciendis quaerat!</p>
                     <p class="lead">Spine Surgery London are Leading Specialists in Spinal Disorders. The very latest techniques are available at The Spine Surgery London, including endoscopic spinal surgery, microdiscectomy, total disc replacement, minimally invasive fusion surgery and kyphoplasty. The Spine Surgery London is a true "one stop shop" providing diagnosis, treatment and rehabilitation. Everything from information to injections to full spinal reconstruction surgery.</p>
-                   
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Contact Modal -->
+    <div class="modal fade" id="contactModel" tabindex="-1" role="dialog" aria-labelledby="contactModelLabel">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="contactModelLabel">Contact Us</h4>
+                </div>
+                <div class="modal-body">
+                   <h3>Interested in joining the network? Have any feedback?</h3>
+                    <p class="lead">If you are a physiotherapist and would like to join this network or have any feedback you would like to share, then please follow <a href="http://sw12694.smart-web.dk/spinal-physiotherapy-contact-form/?completeurl" target="_blank">this link</a>.</p>
+
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -73,87 +93,59 @@
         <div class="parallaxParent">
             <div class="container jumbotext" id="parallax1">
                 <h1 style="text-transform: uppercase; font-weight: 300" class="header-content">Spinal Physiotherapy</h1>
-                <p class="header-content">Find world class Physiotherapists approved by the <a style="color: #fff" href="http://sw12694.smart-web.dk/">Spine Surgery London</a></p>
-
+                <h2 class="header-content">Find first class physical therapists recommended by consultants specialising in spinal care.</h2>
+                <p class="lead header-content">Physiotherapy, Osteopathy, Chiropractic, Acupuncture, Pilates, Hydrotherapy, Gait Analysis, Ergonomics, Podiatry, Home Visits</p>
                 <div class="bh-sl-form-container">
+
                     <form id="bh-sl-user-location" class="form-inline" method="post" action="#" role="form">
 
-
-                        <div class="form-input form-group header-content">
-                            <label for="bh-sl-address">Enter Address or Postcode <small>(e.g. SW1A 2AA)</small>:</label>
-
-                            <input class="form-control" type="text" id="bh-sl-address" name="bh-sl-address" />
+                        <div class="row disappear-for-mobile search-padding-desktop header-content">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-4">
+                                <label class="pull-right remove-pull-mobile" for="bh-sl-search">Search by clinic name:</label>
+                            </div>
+                            <div class="col-md-4">
+                                <input class="form-control pull-left" type="text" id="bh-sl-search" name="bh-sl-search">
+                            </div>
+                            <div class="col-md-2"></div>
                         </div>
 
-                        <select style="color: #333" id="bh-sl-maxdistance" name="bh-sl-maxdistance" class="form-control header-content">
-                            <option value="1">1 Mile</option>
-                            <option value="2">2 Miles</option>
-                            <option value="5">5 Miles</option>
-                            <option value="10">10 Miles</option>
-                        </select>
 
-                        <button id="bh-sl-submit" class="btn btn-success header-content" type="submit">Submit</button>
-
-                        <!--
-                        <p class="header-content filter-service btn  btn-primary" type="submit">Filter Service</p>
-
-
-                        <div style="text-align: left" class="bh-sl-filters-container">
-                            
-                            <ul id="category-filters-container2" class="bh-sl-filters container no-list-style">
-                                <li>
-                                    <h3>Services</h3></li>
-                                <div class="row">
-                                    <div class="col-xs-6 col-sm-6 col-md-6">
-                                        <li>
-                                            <label>
-                                                <input type="checkbox" name="feature" value="Gait Analysis">Gait Analysis
-                                            </label>
-                                        </li>
-                                        <li>
-                                            <label>
-                                                <input type="checkbox" name="feature" value="Acupuncture">Acupuncture
-                                            </label>
-                                        </li>
-                                        <li>
-                                            <label>
-                                                <input type="checkbox" name="feature" value="Osteopathy">Osteopathy
-                                            </label>
-                                        </li>
-                                        <li>
-                                            <label>
-                                                <input type="checkbox" name="feature" value="Hydrotherapy">Hydrotherapy
-                                            </label>
-                                        </li>
-                                    </div>
-                                    <div class="col-xs-6 col-sm-6 col-md-6">
-                                        <li>
-                                            <label>
-                                                <input type="checkbox" name="feature" value="Podiatry">Podiatry
-                                            </label>
-                                        </li>
-                                        <li>
-                                            <label>
-                                                <input type="checkbox" name="feature" value="Pilates">Pilates
-                                            </label>
-                                        </li>
-                                        <li>
-                                            <label>
-                                                <input type="checkbox" name="feature" value="Ergonomics">Ergonomics
-                                            </label>
-                                        </li>
-                                        <li>
-                                            <label>
-                                                <input type="checkbox" name="feature" value="Home Visits">Home/Office Vists
-                                            </label>
-                                        </li>
-                                    </div>
-                                </div>
-                            </ul>
+                        <div class="row search-padding-desktop header-content">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-4">
+                                <label for="bh-sl-address" class="pull-right remove-pull-mobile">Enter Address or Postcode <small>(e.g. SW1A 2AA)</small>:</label>
+                            </div>
+                            <div class="col-md-4">
+                                <input class="form-control pull-left remove-pull-mobile" type="text" id="bh-sl-address" name="bh-sl-address" />
+                            </div>
+                            <div class="col-md-2"></div>
                         </div>
--->
 
+
+                        <div class="row search-padding-desktop">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-4 header-content">
+                                <label class="disappear-for-mobile pull-right" for="bh-sl-distance">Distance</label>
+                            </div>
+                            <div class="col-md-4">
+                                <select style="color: #333" id="bh-sl-maxdistance" name="bh-sl-maxdistance" class="remove-pull-mobile form-control header-content pull-left header-content">
+                                    <option value="1">1 Mile</option>
+                                    <option value="2">2 Miles</option>
+                                    <option value="5">5 Miles</option>
+                                    <option value="10">10 Miles</option>
+                                    <option value="20">20 Miles</option>
+                                    <option value="50">50 Miles</option>
+                                </select>
+
+                                <button id="bh-sl-submit" class="pull-left btn btn-success header-content remove-pull-mobile header-content" type="submit">Submit</button>
+                            </div>
+                            <div class="col-md-2"></div>
+                        </div>
+
+                     
                     </form>
+                    <h4 class="consultant-question header-content">Do you need to see a <a target="_blank" style="color: #fff" href="http://sw12694.smart-web.dk/"><strong>consultant?</strong></a></h4>
                 </div>
             </div>
             <div class="parallax-1"></div>
@@ -227,6 +219,11 @@
                                             <input type="checkbox" name="feature" value="Home Visits">Home/Office Vists
                                         </label>
                                     </li>
+                                       <li>
+                                        <label>
+                                            <input type="checkbox" name="feature" value="chiropractic">Chiropractor
+                                        </label>
+                                    </li>
                                 </div>
                             </div>
                             <p class="filter-service btn btn-sm btn-success" type="submit">Done</p>
@@ -251,13 +248,13 @@
 
 
 
-    <!--
+    
     <footer>
         <div class="container">
-            <p>&copy; Company 2015</p>
+            <p style="text-align: center;"><a href="/complete-list.html">List of all physiotherapists</a></p>
         </div>
     </footer>
--->
+
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>

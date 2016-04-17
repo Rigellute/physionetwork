@@ -58,6 +58,22 @@ label {
     color: #fff
 }
 
+.search-padding-desktop {
+    padding-bottom: 5px;
+}
+
+.consultant-question {
+    margin-top: 30px;
+}
+
+.consultant-question a {
+    color: #d4d4d4 !important;
+}
+
+.btn {
+    margin-left: 5px;
+}
+
 .parallaxParent {
     height: 100vh;
     overflow: hidden;
@@ -106,6 +122,10 @@ label {
     transform-origin: right;
 }
 
+.darkness {
+    color: black;
+}
+
 
 /*
 .scrollmagic-pin-spacer {
@@ -124,11 +144,12 @@ label {
     .jumbotext h1 {
         font-size: 2.6em;
     }
-    .jumbotext {
-        top: 60%;
+    .jumbotext h2 {
+        font-size: 1.7em;
+        font-weight: 300;
     }
-    .btn {
-        margin-top: 7px;
+    .jumbotext {
+        top: 50%;
     }
     .parallaxParent {
         height: 100vh;
@@ -172,6 +193,9 @@ label {
     .btn {
         margin-top: 7px;
     }
+    .search-padding-desktop {
+        padding-bottom: 0px;
+    }
     .parallaxParent {
         height: 145vh;
     }
@@ -213,6 +237,12 @@ label {
     #pin1 {
         float: right !important;
         width: auto !important;
+    }
+}
+
+@media (max-width:  23.4375em) {
+    .btn {
+        margin-top: 7px;
     }
 }
 
