@@ -112,7 +112,7 @@ $(document).ready(function () {
             x: '-10%',
             y: '20%',
             opacity: 0
-        }, 0.3);
+        }, 0.1);
 
 
     //Make features into list (in the infowindow template)

@@ -40,7 +40,7 @@ $(document).ready(function () {
 
                 var clinicianArray = [];
 
-                for (var i = 0; i < 7; i++) {
+                for (var i = 1; i < 8; i++) {
                     clinicianArray.push($(this).attr('clinicianName' + i));
                 }
 
