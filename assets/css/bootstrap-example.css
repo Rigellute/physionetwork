@@ -17,45 +17,28 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-
-/*
-h1,
-p,
-label,
-a {
-    font-family: 'Source Sans Pro', sans-serif;
+p {
+    font-size: 16px;
 }
-*/
 
 .jumbotext h1 {
     font-size: 7em;
-}
-
-
-/*
-.gm-style div {
-    font-weight: 400;
-}
-*/
-
-
-/*
-.gm-style a,
-.gm-style div,
-.gm-style label,
-.gm-style span {
-    font-family: Arial, Helvetica, sans-serif
-}
-*/
-
-body {
-    /*    background-color: #d4d4d4;*/
 }
 
 .jumbotron h1,
 p,
 label {
     color: #fff
+}
+
+div.content-1 {
+    display:none;
+}
+div.content-2 {
+    display:none;
+}
+div.content-3 {
+    display:none;
 }
 
 .search-padding-desktop {
@@ -68,6 +51,11 @@ label {
 
 .consultant-question a {
     color: #d4d4d4 !important;
+}
+
+.black-text p {
+    color: #000;
+    font-weight: 300;
 }
 
 .btn {

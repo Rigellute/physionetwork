@@ -1,4 +1,18 @@
 $(document).ready(function () {
+    
+    
+    // Expandable sections
+    $('.expand-1').click(function () {
+     $('.content-1').slideToggle();
+    }); 
+    $('.expand-2').click(function () {
+     $('.content-2').slideToggle();
+    }); 
+    $('.expand-3').click(function () {
+     $('.content-3').slideToggle();
+    });
+    
+    
     //    media query for map initialization
     if (window.matchMedia("(min-width: 64.063em)").matches) {
         $("#map-container").storeLocator({
