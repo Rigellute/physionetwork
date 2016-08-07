@@ -17,7 +17,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-p {
+p, ul, li {
     font-size: 16px;
 }
 
@@ -53,7 +53,7 @@ div.content-3 {
     color: #d4d4d4 !important;
 }
 
-.black-text p {
+.black-text p, ul, li {
     color: #000;
     font-weight: 300;
 }
@@ -159,9 +159,11 @@ div.content-3 {
         display: block;
         z-index: 10000;
     }
+/*
     ul {
         margin-top: -25px;
     }
+*/
     .gm-style .gm-style-iw {
         padding-left: 30px;
         left: -5px !important;

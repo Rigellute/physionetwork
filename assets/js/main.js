@@ -12,6 +12,7 @@ $(document).ready(function () {
      $('.content-3').slideToggle();
     });
     
+     $("body").tooltip({ selector: '[data-toggle=tooltip]' });
     
     //    media query for map initialization
     if (window.matchMedia("(min-width: 64.063em)").matches) {
